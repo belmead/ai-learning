@@ -3,45 +3,18 @@ type: book-report
 week: 0
 book_title: "You Look Like a Thing and I Love You"
 author: "Janelle Shane"
-chapters: [1,2]
+chapters: [2]
 date: 2025-05-28
 tags:
   - reading
-  - ai-learning
+  - week0
 ---
 
-# 📖 Week 0 • Book Report
+# Chapter 2 – “AI is everywhere, but where is it exactly?”
 
-## You Look Like a Thing and I Love You
-
-### Assigned chapters: 2 of 2
-
----
-
-### 🔹 Chapter 2: “AI is everywhere, but where is it exactly?”
-
-#### Domain Mapping  
-| 🔍 Domain                     | 🚀 Prototype Idea (Finance)                        |
-|-------------------------------|----------------------------------------------------|
-| Domain 1                      | …                                                  |
-| Domain 2                      | …                                                  |
-| Domain 3                      | …                                                  |
-| Domain 4                      | …                                                  |
-| Domain 5                      | …                                                  |
-
-#### Surprise Domain  
-- **Domain Name:** …  
-  - **Prototype idea:** …
-
----
-
-> **Next Steps:**  
-> 1. Tick off each checkbox as you complete it  
-> 2. Commit this file to `week0/` in your `ai-learning` repo  
-> 3. Link any Figma or code artifacts below  
->  
-> ```yaml
-> related_links:
->   - python_basics_notebook.ipynb
->   - figma_sketch_week0.fig
-> ```
+- [ ] **Domain Survey:** List five application domains Shane highlights. For each:
+  - Describe in 1–2 sentences how AI is used in that domain.
+  - Note one technical or human challenge it faces.
+- [ ] **Missing Domain:** Identify one field you believe AI could transform that Shane doesn’t mention.  
+  - Outline a brief use-case scenario.
+- [ ] **Cross-Domain Insight:** In 2–3 sentences, describe a pattern or principle that appears across multiple domains (e.g., data needs, transparency concerns).
