@@ -13,7 +13,6 @@ tags:
 # 📖 Week 0 • Book Report
 
 ## Artificial Intelligence: A Guide for Thinking Humans  
-**Chapters:** 1
 
 ---
 
