@@ -10,61 +10,56 @@ tags:
   - ai-learning
 ---
 
-# 📖 Week 0 • Book Report
-
-## You Look Like a Thing and I Love You  
-**Chapters:** 1–2
+# 📖 Week 0 • AI Learning Plan
 
 ---
 
-### 🔹 Chapter 1: “What is AI?”
+## 📚 Reading
 
-#### Definitions  
-- [ ] **Definition 1:** _“…”_  
-  - **Finance-app implication:**  
-    1. …  
-    2. …  
-- [ ] **Definition 2:** _“…”_  
-  - **Finance-app implication:**  
-    1. …  
-    2. …  
-- [ ] **Definition 3:** _“…”_  
-  - **Finance-app implication:**  
-    1. …  
-    2. …  
+### 🔹 You Look Like a Thing and I Love You (Chapters 1–2)
 
-#### Real-World Example  
-> **System Name (2025)**  
-> - **Matches Definition:** Definition X  
-> - **✅ Benefit:** …  
-> - **❌ Risk:** …
+#### Chapter 1 – “What is AI?”
+- [ ] **Definitions:** List three working definitions Shane gives for “AI.”  
+  - For each: 2–3 sentences on how that framing could inform a finance-app design.
+- [ ] **Real-world Example:** Pick one 2025 AI system that fits one of those definitions.  
+  - **✅ Benefit:** …  
+  - **❌ Risk:** …
+
+#### Chapter 2 – “AI is everywhere, but where is it exactly?”
+- [ ] **Domain Mapping:** List five application domains Shane cites.  
+  - For two of them: 1-sentence note on how you might prototype that domain in your department.
+- [ ] **Surprise Domain:** Name one domain Shane omits but you think is ripe for finance (e.g., credit-fraud pattern detection).  
+  - **Prototype Idea:** …
 
 ---
 
-### 🔹 Chapter 2: “AI is everywhere, but where is it exactly?”
+### 🔹 Artificial Intelligence: A Guide for Thinking Humans (Ch 1)
 
-#### Domain Mapping  
-| 🔍 Domain                     | 🚀 Prototype Idea (Finance)                        |
-|-------------------------------|----------------------------------------------------|
-| Domain 1                      | …                                                  |
-| Domain 2                      | …                                                  |
-| Domain 3                      | …                                                  |
-| Domain 4                      | …                                                  |
-| Domain 5                      | …                                                  |
-
-#### Surprise Domain  
-- **Domain Name:** …  
-  - **Prototype idea:** …
+#### Chapter 1 – “The Roots of Artificial Intelligence”
+- [ ] **Historical Summary:** In ~150 words, summarize the key milestones Mitchell covers (e.g., Turing Test, symbolic logic, early neural nets).  
+- [ ] **Pioneer Spotlight:** Pick one early researcher she mentions (e.g., Turing, McCarthy).  
+  - Write a 1-paragraph reflection on a modern AI lesson from their work.
 
 ---
 
-> **Next Steps:**  
-> 1. Tick off each checkbox as you complete it  
-> 2. Commit this file to `week0/` in your `ai-learning` repo  
-> 3. Link any Figma or code artifacts below  
->  
-> ```yaml
-> related_links:
->   - python_basics_notebook.ipynb
->   - figma_sketch_week0.fig
-> ```
+## 🎧 Podcast / Video
+
+- [ ] **Data Skeptic** – Episode “What is AI?”  
+  - Note two distinct definitions of AI discussed and reflect in 2–3 sentences which aligns best with your role as a product designer.
+
+---
+
+## 🤖 Interactive (optional)
+
+- [ ] **Hugging Face Intro to ML** – Visit the course landing page  
+  - List the four lesson titles and three topics you’re most curious about; bookmark the link for later.
+
+---
+
+## 🐍 Python Exercise
+
+### Glossary Manager
+```python
+glossary = {}
+def add_term(term: str, definition: str): …
+def get_definition(term: str) -> str: …
