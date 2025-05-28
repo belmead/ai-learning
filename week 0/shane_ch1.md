@@ -9,22 +9,62 @@ tags:
   - reading
   - ai-learning
 ---
-# Ch 1 – “What is AI?”
 
-## Definitions: List three working definitions Shane gives for “AI.” For each, write 2–3 sentences on how that framing could inform a finance-app design.
+# 📖 Week 0 • Book Report
 
-Answer goes here.
+## You Look Like a Thing and I Love You  
+**Chapters:** 1–2
 
-## Real-world example: Find a 2025 AI system that fits one of those definitions. Bullet one benefit and one risk in a financial context.
+---
 
-Answer goes here.
+### 🔹 Chapter 1: “What is AI?”
 
-# Ch 2 – “AI is everywhere, but where is it exactly?”
+#### Definitions  
+- [ ] **Definition 1:** _“…”_  
+  - **Finance-app implication:**  
+    1. …  
+    2. …  
+- [ ] **Definition 2:** _“…”_  
+  - **Finance-app implication:**  
+    1. …  
+    2. …  
+- [ ] **Definition 3:** _“…”_  
+  - **Finance-app implication:**  
+    1. …  
+    2. …  
 
-## Domain mapping: List five application domains Shane cites. For two of them, write a 1-sentence note on how you might prototype that domain in your department.
+#### Real-World Example  
+> **System Name (2025)**  
+> - **Matches Definition:** Definition X  
+> - **✅ Benefit:** …  
+> - **❌ Risk:** …
 
-Answer goes here.
+---
 
-## Surprise domain: Name one domain Shane omits but you think is ripe for finance (e.g. credit-fraud pattern detection); bullet a simple prototype idea.
+### 🔹 Chapter 2: “AI is everywhere, but where is it exactly?”
 
-Answer goes here.
+#### Domain Mapping  
+| 🔍 Domain                     | 🚀 Prototype Idea (Finance)                        |
+|-------------------------------|----------------------------------------------------|
+| Domain 1                      | …                                                  |
+| Domain 2                      | …                                                  |
+| Domain 3                      | …                                                  |
+| Domain 4                      | …                                                  |
+| Domain 5                      | …                                                  |
+
+#### Surprise Domain  
+- **Domain Name:** …  
+  - **Prototype idea:** …
+
+---
+
+> **Next Steps:**  
+> 1. Tick off each checkbox as you complete it  
+> 2. Commit this file to `week0/` in your `ai-learning` repo  
+> 3. Link any Figma or code artifacts below  
+>  
+> ```yaml
+> related_links:
+>   - python_basics_notebook.ipynb
+>   - figma_sketch_week0.fig
+> ```
