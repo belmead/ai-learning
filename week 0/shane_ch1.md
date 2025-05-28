@@ -14,7 +14,7 @@ tags:
 
 ## You Look Like a Thing and I Love You
 
-# Assigned chapters: 1 of 2 #
+### Assigned chapters: 1 of 2
 
 ---
 
