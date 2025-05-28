@@ -12,8 +12,7 @@ tags:
 
 # 📖 Week 0 • Book Report
 
-## You Look Like a Thing and I Love You  
-**Chapters:** 1–2
+## You Look Like a Thing and I Love You
 
 ---
 
