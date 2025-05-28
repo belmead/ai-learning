@@ -1,4 +1,22 @@
+---
+type: book-report
+week: 0
+book_title: "You Look Like a Thing and I Love You"
+author: "Janelle Shane"
+chapters: [1,2]
+date: 2025-05-28
+tags:
+  - reading
+  - ai-learning
+---
 
+# 📖 Week 0 • Book Report
+
+## You Look Like a Thing and I Love You
+
+# Assigned chapters: 2 of 2 #
+
+---
 
 ### 🔹 Chapter 2: “AI is everywhere, but where is it exactly?”
 
