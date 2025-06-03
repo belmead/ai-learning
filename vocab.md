@@ -3,10 +3,13 @@
 ### Artificial Narrow Intelligence (ANI)
 
 ### Convolution
-The idea is similar to the algorithms that look at small-scale features in images first (edges and textures, for example)m, then szoom out to look at the big picture. (Shane, pg. 52)
+The idea is similar to the algorithms that look at small-scale features in images first (edges and textures, for example)m, then zoom out to look at the big picture. (Shane, pg. 52)
 
 ### Deepfakes
 [Allowing] people to swap one person's head and/or body for another, even in video. (Shane, pg. 35)
+
+### Deep Neural Network
+A (very) simplified model of our cerebrel cortex, composed of stacks of layers of artificial neurons. (Geron, pg. xv)
 
 ### Long Short-Term Memory (LSTM)
 It also had a tiny bit of long-term memory where it could keep track of information for longer than that sixty five-character window, but that amount of memory was too tiny to store an entire ingredient list. In machine learning terms, that makes this algorithm a Long-Short Term Memory (LSTM) neural network rather than a plan RNN. (Shane, pg. 51)
