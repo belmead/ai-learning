@@ -29,7 +29,7 @@ On any machine, follow these steps:
 
    - Windows
    ```bash
-   venv\Scripts\activate```
+   venv\Scripts\activate
 4. **Install Required Packages**
    ```bash
    pip install numpy pandas jupyterlab
