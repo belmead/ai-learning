@@ -25,6 +25,7 @@ On any machine, follow these steps:
    - Mac/Linux
    ```bash
    source venv/bin/activate
+   ```
 
    - Windows
    ```bash
